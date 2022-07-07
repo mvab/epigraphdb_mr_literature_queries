@@ -12,5 +12,5 @@ The main development repo of this project is [https://github.com/mvab/epigraphdb
 
 02_query_mediators_between_traits.ipynb
 
-# 03 - extract literature space for a trait TO BE ADDED
+03_extract_trait_literature_space.ipynb
 ```
